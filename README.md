@@ -1,4 +1,6 @@
 # Personal Portfolio
+![image](https://github.com/99Anvar99/Personal_Portfolio/assets/60616540/a83fa006-0412-4cc7-aa64-3dae6ea50bae)
+
 A personal portfolio is a collection of work samples, achievements, and experiences that an individual puts together to showcase their skills and accomplishments to potential employers, clients, or collaborators. It is a way for individuals to market themselves and demonstrate their strengths and abilities.
 
 A personal portfolio can include various types of content, such as:
